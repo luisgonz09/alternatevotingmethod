@@ -1,0 +1,8 @@
+There are: 10 total ballots.
+10 of those are valid ballots.
+0 of those are invalid ballots.
+0 are empty ballots.
+Round 1: Lola Mento was eliminated with 1 #1's
+Round 2: Juan Lopez was eliminated with 1 #1's
+Round 3: Pucho Avellanet was eliminated with 3 #1's
+Winner: Pepe Perez wins with 6 1's
